@@ -23,7 +23,7 @@ I use GitHub for a variety of things, including:
 ## Want to reach me?
 You can reach me at my email: 3@georgariou.com
 
-I am open to answering any questions about code I've contributed, my current career, my past education, and anything else!
+I am open to answering any questions about code I've contributed, my current career, my past education, and anything else! I would love to assist however possible on your school or side projects.
 
 <!---
 mpgiii/mpgiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
