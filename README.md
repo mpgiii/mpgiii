@@ -14,7 +14,7 @@ I am currently a software development engineer at Amazon working in the Amazon F
 
 I use GitHub for a variety of things, including:
 
-- Maintaining my resume in LaTeX
+- Maintaining [my resume in LaTeX](https://github.com/mpgiii/resume) ([click here for the pdf](https://georgariou.com/resume.pdf))
 - Hosting [my personal website](https://georgariou.com)
 - Research projects (such as [my research on trends of hate speech on right-wing social media platform Gab](https://github.com/mpgiii/gab-hate))
 - Side projects (such as my in-progress self-made [GameBoy emulator](https://github.com/mpgiii/mpgameboy))
