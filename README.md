@@ -8,7 +8,7 @@ My area of interest is embedded systems. If I can choose any language to program
 
 I began my career at Aruba Networks working as an embedded software engineer on software of enterprise-grade network switches.
 
-I am currently a software development engineer at Amazon working in the Amazon Fashion space.
+I am currently a full-stack software development engineer at Amazon working in the Amazon Fashion space.
 
 ## What I use GitHub for
 
@@ -16,6 +16,7 @@ I use GitHub for a variety of things, including:
 
 - Maintaining [my resume in LaTeX](https://github.com/mpgiii/resume) ([click here for the pdf](https://georgariou.com/resume.pdf))
 - Hosting [my personal website](https://georgariou.com)
+- Maintaining [the website for my father's law firm](https://github.com/mpgiii/forworker) ([click here to view the site](https://sprenklegeorgariou.com))
 - Research projects (such as [my research on trends of hate speech on right-wing social media platform Gab](https://github.com/mpgiii/gab-hate))
 - Side projects (such as my in-progress self-made [GameBoy emulator](https://github.com/mpgiii/mpgameboy))
 - Past school projects I am particularly proud of (such as my [weather station written in C for the MSP432](https://github.com/mpgiii/MSP432-Weather-Station))
