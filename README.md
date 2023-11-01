@@ -16,7 +16,8 @@ I use GitHub for a variety of things, including:
 
 - Maintaining [my resume in LaTeX](https://github.com/mpgiii/resume) ([click here for the pdf](https://georgariou.com/resume.pdf))
 - Hosting [my personal website](https://georgariou.com)
-- Maintaining [the website for my father's law firm](https://github.com/mpgiii/forworker) ([click here to view the site](https://sprenklegeorgariou.com))
+- Maintaining [the website for my father's law business](https://github.com/mpgiii/forworker) ([click here to view the site](https://sprenklegeorgariou.com))
+- Hosting and maintaining [the website for another Salinas-based law firm](https://github.com/dilles-law-group/dilles-law-group.github.io) ([click here to view the site](https://dilleslaw.com))
 - Research projects (such as [my research on trends of hate speech on right-wing social media platform Gab](https://github.com/mpgiii/gab-hate))
 - Side projects (such as my in-progress self-made [GameBoy emulator](https://github.com/mpgiii/mpgameboy))
 - Past school projects I am particularly proud of (such as my [weather station written in C for the MSP432](https://github.com/mpgiii/MSP432-Weather-Station))
