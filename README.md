@@ -8,7 +8,7 @@ My area of interest is embedded systems. If I can choose any language to program
 
 I began my career at Aruba Networks working as an embedded software engineer on software of enterprise-grade network switches.
 
-I am currently a full-stack software development engineer at Amazon working in the Amazon Fashion space.
+I am currently a full-stack software development engineer at Amazon working on projects with the goal of reducing returns. I previously worked in the Amazon Fashion space.
 
 ## What I use GitHub for
 
