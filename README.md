@@ -8,7 +8,7 @@ My area of interest is embedded systems. If I can choose any language to program
 
 I began my career at Aruba Networks working as an embedded software engineer on software of enterprise-grade network switches.
 
-I am currently a full-stack software development engineer at Amazon working on internal tooling to enable A/B testing company-wide. I previously worked in the Amazon Fashion and Fitness space.
+I am currently a full-stack software development engineer at Amazon working on and improving internal tooling that enables A/B testing company-wide. I previously worked in the Amazon Fashion and Fitness space.
 
 Though I am currently employed, if you know of any career opportunities in embedded systems, please email me!
 
@@ -23,6 +23,7 @@ I use GitHub for a variety of things, including:
 - Research projects (such as [my research on trends of hate speech on right-wing social media platform Gab](https://github.com/mpgiii/gab-hate))
 - Side projects (such as my in-progress self-made [GameBoy emulator](https://github.com/mpgiii/mpgameboy))
 - Past school projects I am particularly proud of (such as my [weather station written in C for the MSP432](https://github.com/mpgiii/MSP432-Weather-Station))
+- Contributing to repositories related to the Nintendo console homebrew scene
 
 ## Want to reach me?
 You can reach me at my email: 3@georgariou.com
