@@ -1,6 +1,6 @@
 # mpgiii
 
-Hi, welcome to my GitHub repo. Here you will find class and personal projects I occassionally contribute to.
+Hi, welcome to my GitHub account. Here you will find class and personal projects I occassionally contribute to.
 
 My area of interest is embedded systems. If I can choose any language to program in for a given project, I will tend to choose C.
 
